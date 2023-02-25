@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Trabalho Pratico M1 - IGTI</string>
+    <string name="texto_principal">Uma surpresa espera você!</string>
+    <string name="btn_aperte">Aperte aqui!</string>
+</resources>
